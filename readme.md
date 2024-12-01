@@ -64,10 +64,10 @@ List
 
 ---
 
-***
+---
 
-[x] task completed
-[ ] task not completed 
+- [x] task completed
+- [ ] task not completed
 
 My name is ==Sribinu==
 
