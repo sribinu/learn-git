@@ -87,9 +87,9 @@ Reiciendis, corrupti error. [^1]
     Ut tempore blanditiis magni unde voluptas,
     quod atque.
 
-[//] : # (comment in markdown file)
-
+[//]: # "comment in markdown file"
 [dove]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFnevHU847QN3AJOczohLU2l8zufcESnbhQ&s
 
 - [node.js] - evented I/O for the backend
-  [node.js]: <http://nodejs.org>
+
+[node.js]: http://nodejs.org
