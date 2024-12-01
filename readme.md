@@ -21,3 +21,56 @@ console.log("Hello World!");
 ###### heading 6 / subheading
 
 Normal text
+
+_italic_
+
+**strong/bold**
+
+**_strong + italic_**
+
+~~10000~~ **8999**
+
+Links:
+[Github](https://github.com/sribinu "@sribinu")
+
+Images
+![bird](https://cdn.britannica.com/10/250610-050-BC5CCDAF/Zebra-finch-Taeniopygia-guttata-bird.jpg)
+
+Use `for` loop
+
+```javascript
+var name = "sribinu";
+console.log(name);
+```
+
+Table
+
+| first name | last name | contact    |
+| ---------- | --------- | ---------- |
+| Sribinu    | P         | 6385772648 |
+| Subin      | M         | 7339411474 |
+
+> Block quotes using > symbol
+
+List
+
+1. item 1
+1. item 2
+1. item 3
+   1. sub 1
+
+- item 4
+- item 5
+
+---
+
+***
+
+[x] task completed
+[ ] task not completed 
+
+My name is ==Sribinu==
+
+H~2~O
+
+a^2^ + b^2^
