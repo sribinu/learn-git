@@ -74,3 +74,22 @@ My name is ==Sribinu==
 H~2~O
 
 a^2^ + b^2^
+
+Footnote:
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto quibusdam
+eius neque excepturi consectetur laborum aliquam, ipsa nihil veniam!
+Reiciendis, corrupti error. [^1]
+
+![dove]
+
+[^1]:
+    Ut tempore blanditiis magni unde voluptas,
+    quod atque.
+
+[//] : # (comment in markdown file)
+
+[dove]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFnevHU847QN3AJOczohLU2l8zufcESnbhQ&s
+
+- [node.js] - evented I/O for the backend
+  [node.js]: <http://nodejs.org>
