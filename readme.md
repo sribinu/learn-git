@@ -83,7 +83,7 @@ Reiciendis, corrupti error. [^1]
 
 ![dove]
 
-[^1]:
+[^1]: 
     Ut tempore blanditiis magni unde voluptas,
     quod atque.
 
