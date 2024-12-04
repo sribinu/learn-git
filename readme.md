@@ -45,10 +45,10 @@ console.log(name);
 
 Table
 
-| first name | last name | contact    |
-| ---------- | --------- | ---------- |
-| Sribinu    | P         | 6385772648 |
-| Subin      | M         | 7339411474 |
+| first name | last name | contact     |
+| ---------- | --------- | ----------- |
+| Steve      | Smith     | 98765432110 |
+| David      | Warner    | 8765432109  |
 
 > Block quotes using > symbol
 
@@ -83,7 +83,7 @@ Reiciendis, corrupti error. [^1]
 
 ![dove]
 
-[^1]: 
+[^1]:
     Ut tempore blanditiis magni unde voluptas,
     quod atque.
 
