@@ -45,10 +45,10 @@ console.log(name);
 
 Table
 
-| first name | last name | contact     |
-| ---------- | --------- | ----------- |
-| Steve      | Smith     | 98765432110 |
-| David      | Warner    | 8765432109  |
+| first name | last name | contact    |
+| ---------- | --------- | ---------- |
+| Steve      | Smith     | 9876543210 |
+| David      | Warner    | 8765432109 |
 
 > Block quotes using > symbol
 
